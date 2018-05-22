@@ -1,0 +1,85 @@
+﻿<Window
+    x:Class="hw7_AsyncAwait_WPF.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:hw7_AsyncAwait_WPF"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="321.835"
+    Height="350"
+    mc:Ignorable="d">
+    <Grid>
+        <Button
+            Name="btnStart"
+            Width="112"
+            Margin="41,99,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnStartClick"
+            Content="Start" />
+        <Button
+            Name="btnLap"
+            Width="105"
+            Margin="171,99,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnLapClick"
+            Content="Lap" />
+        <Button
+            Name="btnReset"
+            Width="105"
+            Margin="171,134,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnResetClick"
+            Content="Reset" />
+        <ListBox
+            Name="listBox"
+            Width="235"
+            Height="131"
+            Margin="41,170,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="LightGray" />
+        <Label
+            Name="lblMin"
+            Width="67"
+            Height="44"
+            Margin="41,39,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="LightGray"
+            Content=""
+            FontSize="20" />
+        <Label
+            x:Name="lblSec"
+            Width="67"
+            Height="44"
+            Margin="125,39,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="LightGray"
+            Content=""
+            FontSize="20" />
+        <Label
+            x:Name="lblMilliSec"
+            Width="67"
+            Height="44"
+            Margin="209,39,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="LightGray"
+            Content=""
+            FontSize="20" />
+        <Button
+            x:Name="btnStop"
+            Width="112"
+            Margin="41,134,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="btnStop_Click"
+            Content="Stop" />
+
+    </Grid>
+</Window>

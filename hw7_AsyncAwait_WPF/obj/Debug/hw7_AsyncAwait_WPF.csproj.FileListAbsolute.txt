@@ -1,0 +1,15 @@
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\bin\Debug\hw7_AsyncAwait_WPF.exe.config
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\bin\Debug\hw7_AsyncAwait_WPF.exe
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\bin\Debug\hw7_AsyncAwait_WPF.pdb
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.csprojResolveAssemblyReference.cache
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\MainWindow.g.cs
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\App.g.cs
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF_MarkupCompile.cache
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF_MarkupCompile.lref
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\MainWindow.baml
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.g.resources
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.Properties.Resources.resources
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.csproj.GenerateResource.cache
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.csproj.CoreCompileInputs.cache
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.exe
+E:\SYST_hw7_AsyncAwait_WPF\hw7_AsyncAwait_WPF\obj\Debug\hw7_AsyncAwait_WPF.pdb
